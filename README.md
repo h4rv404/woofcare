@@ -31,4 +31,11 @@ This project was born out of compassion for those who can't ask for help but des
 
 ---
 
+## 📸 Glimpses from the Street
+
+<img src="https://raw.githubusercontent.com/h4rv404/woofcare/main/catdog.jpg" alt="WoofCare Collage" width="600"/>
+
+---
+
+> **WoofCare** — *Every paw matters. Every meal counts.* 🐾✨
 
