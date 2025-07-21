@@ -1,25 +1,25 @@
 # 🐾 WoofCare
 
-**Caring for the Unseen, Feeding the Forgotten.**
+**Because every life matters — paws, hooves, feathers, tails, and tiny paws too.**
 
 ---
 
 ## 🐶 About WoofCare
 
-**WoofCare** is a community-driven initiative aimed at feeding and caring for **stray dogs and cats** — animals that are often overlooked in our busy streets. We don’t just feed them, we document their journey to inspire others to show kindness where it's needed most.
+**WoofCare** began as a small act of kindness — feeding street dogs. But today, it’s much more than that.
 
-This project was born out of compassion for those who can't ask for help but desperately need it.
+From hungry squirrels and injured birds to abandoned puppies and thirsty cows, **WoofCare stands for care without conditions**. We believe that every living being, no matter how small or voiceless, deserves love, food, and protection.
+
+> Kindness shouldn't be limited by species. 💛
 
 ---
 
 ## ✨ Our Mission
 
-- 🥣 Provide regular food and clean water to street animals  
-- 🐱 Care for both **dogs and cats**, young and old  
-- 📸 Capture their stories and share their resilience  
-- 🌍 Spread awareness and inspire local action  
-
-> Because love should be unconditional — no matter the breed, age, or condition.
+- 🥣 Feed and hydrate street animals — dogs, cows, birds, and more  
+- 🐾 Rescue or care for sick, injured, or abandoned beings  
+- 📸 Share stories to inspire kindness in every corner  
+- 🌍 Build a community that acts with compassion  
 
 ---
 
@@ -27,15 +27,7 @@ This project was born out of compassion for those who can't ask for help but des
 
 - **Frontend**: HTML, CSS, JavaScript  
 - **Hosting**: GitHub Pages *(Vercel coming soon)*  
-- **Design**: Clean, emotional, mobile-first layout  
+- **Design**: Clean, mobile-friendly, heartfelt  
 
 ---
-
-## 📸 Glimpses from the Street
-
-<img src="https://raw.githubusercontent.com/h4rv404/woofcare/main/catdog.jpg" alt="WoofCare Collage" width="600"/>
-
----
-
-> **WoofCare** — *Every paw matters. Every meal counts.* 🐾✨
 
